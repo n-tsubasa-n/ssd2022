@@ -62,4 +62,5 @@ Take your heart
 * It is sunny.
 *  hagayui
 * Yaha
-* Banana is life, life is BANANA!!! 
+* Banana is life, life is BANANA!!!
+* onaka hetta
