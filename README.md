@@ -61,4 +61,6 @@ Take your heart
 * Soccer Love
 * It is sunny.
 *  hagayui
+* Yaha
+* Banana is life, life is BANANA!!!
 * onaka hetta
