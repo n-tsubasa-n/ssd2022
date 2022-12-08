@@ -66,4 +66,3 @@ Take your heart
 * onaka hetta
 * This is Mek from SE lab.
 * 2211114 is sleepy...
-* so good
